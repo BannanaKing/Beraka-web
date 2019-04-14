@@ -1,0 +1,23 @@
+.bg-black{
+  background-color: black;
+}
+.tx-white{
+  color: white;
+}
+.bg-image-beraka{
+  background-image: url("BerakaPortada.jpg");
+}
+.top-margin{
+  margin-top: 20px;
+}
+.carousel-inner img{
+  width: 100%;
+  height: 100%;
+}
+#map{
+  height: 400px;
+  width: 90%;
+}
+.tx-color-blue{
+  color: blue;
+}
